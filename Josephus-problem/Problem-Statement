@@ -1,1 +1,2 @@
-
+Given no. of persons in a circle(n) and no. of persons to skip after a kill(k) and starting point as first person
+(in first round count of skipping starts from first person),find the position of the person who survived at last.
