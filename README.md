@@ -1,2 +1,2 @@
-# Data-Structure-Problems
-Solution to some of the classical data structure problems available on internet
+# Data-Structures-Algorithms-Problems
+Solution to some of the classical data structures and algorithms problems available on internet
